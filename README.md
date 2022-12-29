@@ -1,3 +1,3 @@
-# Sign up screen
+# Sign in screen - Safepill
 
-The aim of the project is to develop a sign-up screen.
+The aim of the project is to develop a sign-in screen.
